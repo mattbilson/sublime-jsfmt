@@ -37,6 +37,8 @@ git clone https://github.com/ionutvmi/sublime-jsfmt jsfmt
 - [esformatter-semicolons](https://github.com/bulyshko/esformatter-semicolons)
 - [esformatter-dot-notation](https://github.com/pgilad/esformatter-dot-notation)
 - [esformatter-quotes](https://github.com/millermedeiros/esformatter-quotes)
+- [esformatter-eol-last](https://github.com/briandipalma/esformatter-eol-last)
+- [esformatter-literal-notation](https://github.com/kewah/esformatter-literal-notation)
 
 
 ### Settings
@@ -60,6 +62,8 @@ git clone https://github.com/ionutvmi/sublime-jsfmt jsfmt
             // "esformatter-semicolons",
             // "esformatter-braces",
             // "esformatter-dot-notation"
+            // "esformatter-literal-notation"
+            // "esformatter-eol-last"
         ]
     },
     "options-JSON": {
