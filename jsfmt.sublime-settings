@@ -17,6 +17,8 @@
             // "esformatter-semicolons",
             // "esformatter-braces",
             // "esformatter-dot-notation"
+            // "esformatter-literal-notation"
+            // "esformatter-eol-last"
         ]
     },
     "options-JSON": {
